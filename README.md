@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">A Frontend Developer with a strong grip on Data Structures & Algorithms and hands-on experience in MERN Stack development. I love building performant web apps and enhancing user experiences through Motion Design using GSAP, Framer Motion, and Three.js.</p>
+<p align="left">A Frontend Developer with a strong grip on Data Structures & Algorithms and hands-on experience in MERN Stack development. I love building performant web apps and enhancing user experiences through Motion Design using GSAP, Locomotive JS, Lenis, Framer Motion, and Three.js.
+</p>
 
 ###
 

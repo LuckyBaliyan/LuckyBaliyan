@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating stuff since 2023  <br>📚 Currently learning Material UI (MUI)  <br>🎓 Education: Bachelor’s in Computer Science (3rd Year) | CGPA: 9.3  <br>💡 Interests: Problem Solving, Data Structures & Creative Web Development  <br>🎲 Fun fact: I enjoy turning complex logic into smooth, interactive UI experiences</p>
+<p align="left">✨ Creating stuff since 2023  <br>📚 Currently learning Material UI (MUI)  <br>🎓 Education: Bachelor’s in Computer Science (3rd Year) | SCGPA: 9.6  <br>💡 Interests: Problem Solving, Data Structures & Creative Web Development  <br>🎲 Fun fact: I enjoy turning complex logic into smooth, interactive UI experiences</p>
 
 ###
 
